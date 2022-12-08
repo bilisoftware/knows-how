@@ -19,6 +19,7 @@
 
 ### NestJs:
 
-1. File name convention: kecab case, exp: event-code.entity.ts
-2. Use repository pattern, check base repo for detail
-3. Use transaction if neccessary
+1. File name convention: kecab case and singular, exp: event-code.entity.ts
+2. Folder name convention: kacab case and plural, exp: entities
+3. Use repository pattern, check base repo for detail
+4. Use transaction if neccessary
